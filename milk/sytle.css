@@ -56,7 +56,7 @@ body {
     width: 40px;
     height: 40px;
     transform: rotate(calc(360deg / 8 * var(--i)));
-    box-shadow: 0 0 0 10px #fff;
+    /* box-shadow: 0 0 0 10px #fff; */
   }
   90%,100% {
     width: 100px;
