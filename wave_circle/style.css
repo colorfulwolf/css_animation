@@ -24,18 +24,18 @@ body {
               inset 0 5px 0 #ccc;
   box-sizing: border-box;
   border-radius: 50%;
-  animation: animate 3s ease-in-out infinite;
+  animation: animate 4s ease-in-out infinite;
   top: calc(10px * var(--i));
   left: calc(10px * var(--i));
   right: calc(10px * var(--i));
   bottom: calc(10px * var(--i));
-  animation-delay: 0s;
+  animation-delay: calc(-0.1s * var(--i));
 }
 @keyframes animate {
   0%,100% {
-    transform: translateZ(-100px);
+    transform: translateZ(-120px);
   }
   50% {
-    transform: translateZ(100px);
+    transform: translateZ(120px);
   }
 }
