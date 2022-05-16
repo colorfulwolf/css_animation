@@ -9,7 +9,7 @@ these are practice css from youtube
     - [Pending]
   - [Infinity](#infinity)
   - [Wave Circle](#wave-circle)
-  - [Hot Cup Tea](#hop-cup-tea)
+  - [Hot Cup Tea](#hot-cup-tea)
 <!-- /TOC -->
 
 ## Milk
