@@ -9,6 +9,7 @@ these are practice css from youtube
     - [Pending]
   - [Infinity](#infinity)
   - [Wave Circle](#wave-circle)
+  - [Hot Cup Tea](#hop-cup-tea)
 <!-- /TOC -->
 
 ## Milk
@@ -25,3 +26,9 @@ for infinity dots animation effects
 for 3d wave circle
 
 ![3d wave circle](/wave_circle/wave_circle.gif)
+
+## Hot Cup Tea
+for hot cup tea animation
+
+![hot cup tea](/hot_cup_tea/hot_cup_tea.gif)
+
