@@ -10,6 +10,7 @@ these are practice css from youtube
   - [Infinity](#infinity)
   - [Wave Circle](#wave-circle)
   - [Hot Cup Tea](#hot-cup-tea)
+  - [Elastic Line](#elastic-line)
 <!-- /TOC -->
 
 ## Milk
@@ -31,4 +32,9 @@ for 3d wave circle
 for hot cup tea animation
 
 ![hot cup tea](/hot_cup_tea/hot_cup_tea.gif)
+
+## Elastic Line
+for elastic line animation
+
+![elastic line](/elastic_line/elastic_line.gif)
 
