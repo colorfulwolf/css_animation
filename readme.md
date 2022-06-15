@@ -41,3 +41,7 @@ for elastic line animation
 ## Background animation
 for bubble animation
 ![background](/background/background.gif)
+
+## Border animation
+for border animation
+![border animation](/border_animation/border_animation.gif)
