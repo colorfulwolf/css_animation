@@ -45,3 +45,7 @@ for bubble animation
 ## Border animation
 for border animation
 ![border animation](/border_animation/border_animation.gif)
+
+## navbar
+for navbar animation
+![navbar animation](/navbar/navbar.gif)
